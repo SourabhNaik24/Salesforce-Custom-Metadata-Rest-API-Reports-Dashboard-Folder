@@ -14,3 +14,6 @@ Dashboard Folder UI:
 
 Dashboard Folder Output:
 ![Screenshot 2024-12-22 at 3 40 53 PM](https://github.com/user-attachments/assets/93509d37-a50e-450c-9c0c-2e911211d2c6)
+
+Salesforce Inspector Explore API Output for Report:
+![image](https://github.com/user-attachments/assets/0382eea6-92d9-4b9b-b87c-4d261dba18f6)
